@@ -1,0 +1,1 @@
+print("someoperation.py", __name__)
